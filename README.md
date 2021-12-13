@@ -1,5 +1,5 @@
 # finalskspipeline
-	The Best (Oregon, does my webook work?!!!) Skillstorm Jenkins Pipeline Project! 
+	The Best (Oregon, WORKS WITH POLING) Skillstorm Jenkins Pipeline Project! 
 ## What is this Repo For
   Repo for final skillstorm jenkins pipeline project
 # Create VM in AWS
