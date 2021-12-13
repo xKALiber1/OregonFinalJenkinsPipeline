@@ -8,12 +8,14 @@
 
     create a file called setup.sh in the current directory
     copy contents of jenkins.sh in the repository to that file and save it
+
+    nano jenkins.sh (or whatever you called it like "setup")
     
     Set the execution bit for the bash script
-        chmod +x setup.sh
+        sudo chmod +x jenkins.sh
     
     Run the script (initial jenkins password will be the final output)
-        sudo ./setup.sh
+        sudo ./jenkins.sh
 
 ## Run the following commands
 
