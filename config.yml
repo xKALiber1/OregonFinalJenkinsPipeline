@@ -9,7 +9,7 @@ contexts:
     cluster: pipeline.us-west-2.eksctl.io
     user: Kal@pipeline.us-west-2.eksctl.io
   name: Kal@pipeline.us-west-2.eksctl.io
-current-context: Kal@pipeline.us-west-1.eksctl.io
+current-context: Kal@pipeline.us-west-2.eksctl.io
 kind: Config
 preferences: {}
 users:
